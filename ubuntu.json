@@ -108,6 +108,11 @@
     "canonical_key_url": "https://raw.githubusercontent.com/travis-ci/apt-source-safelist/master/keys/computology-apt-backport-trusty.asc"
   },
   {
+    "alias": "cmake-3.x",
+    "sourceline": "ppa:george-edison55/cmake-3.x",
+    "key_url": null
+  },
+  {
     "alias": "couchbase-precise",
     "sourceline": "deb http://packages.couchbase.com/ubuntu precise precise/main",
     "key_url": "https://%{app_host}/files/gpg/couchbase-precise.asc",
